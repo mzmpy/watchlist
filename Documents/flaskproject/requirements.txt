@@ -8,7 +8,6 @@ Flask-Uploads==0.2.1
 Flask-WTF==0.14.2
 itsdangerous==1.1.0
 Jinja2==2.10.1
-LHAPDF==6.2.1
 Mako==1.1.0
 MarkupSafe==1.1.1
 pkg-resources==0.0.0
